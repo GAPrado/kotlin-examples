@@ -1,0 +1,30 @@
+import course.kotlinmasterclass.*
+
+fun main(args: Array<String>) {
+
+    //helloWorld()
+    //numbersAndVariables()
+    //variablesAndString()
+    //userInput()
+    //operandsAndBooleans()
+    //nullability()
+    //handlingExceptions()
+    //listAndArrayList()
+    //setAndHashSet()
+    //mapAndHashMap()
+    //ifStatement()
+    //expressions()
+    //whenConditional()
+    //forLoop()
+    //whileLoop()
+    //breakAndContinue()
+    //functions()
+    //lambdaFunctions()
+    //objectOrientedProgramming()
+    //standardFunctions()
+    //otherClasses()
+    //extensions()
+    //generics()
+    //otherConcepts()
+    tests()
+}
